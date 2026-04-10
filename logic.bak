@@ -1,4 +1,0 @@
-#lang racket
-
-
-(include "gui.rkt")
